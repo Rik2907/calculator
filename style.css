@@ -1,0 +1,35 @@
+.bigdiv {
+  margin: auto;
+  height: 500px;
+  width: 70%;
+  background-color: aqua;
+}
+.styletext {
+  text-align: centre;
+  padding: 2px;
+  font-size: 20px;
+}
+#innerbig {
+  height: 50%;
+  width: 100%;
+  background-color: aliceblue;
+}
+#innerbottom {
+  height: 50%;
+}
+.row {
+  height: 16%;
+  margin: 3px;
+}
+.sidebutton {
+  background-color: yellow;
+}
+.buttonclass {
+  width: 24.5%;
+  background-color: white;
+  border-top: 1px solid rgba(166, 163, 163, 0.882);
+  padding: 2px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
